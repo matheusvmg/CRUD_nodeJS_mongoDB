@@ -60,5 +60,5 @@ Ou você pode criar através do terminal via esse comandos: <br /> `mongo` isso 
 ## Dúvidas?:raising_hand:
 Entre em contato comigo : <br /> <label><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/><a href="https://instagram.com/matheusgoes.dev">@matheusgoes.dev</a></label>
 <br />
-<label><img src="https://img.icons8.com/officel/40/000000/linkedin.png"/><a href="linkedin.com/in/matheus-vinícius-meirelles-góes-5b8058aa">Matheus Vinícius Meirelles Góes</a></label>
+<label><img src="https://img.icons8.com/officel/40/000000/linkedin.png"/><a href="https://www.linkedin.com/in/matheus-vin%C3%ADcius-meirelles-g%C3%B3es-5b8058aa/">Matheus Vinícius Meirelles Góes</a></label>
 <p align="center">:octocat:</p>
