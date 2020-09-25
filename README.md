@@ -38,6 +38,7 @@ Com a aplicação você consegue cadastrar um usuário, listar todos os usuário
 Bom depois de instalado e configurado o ambiente estamos prontos para colocar a mão na massa. Finalmente uhulll:raised_hands:
 <br />
 - Primeiro clone esse repositório na sua máquina local (ou baixe em um arquivo zipado)
+- Antes de tudo instale todos os pacotes e módulos necessários para a aplicação funcionar, para isso digite o comando `npm install`.
 - Abra o projeto no vscode e inicie o servidor no cmd ou terminal de sua preferência (pode ser o do vscode também) com `npm dev` ou `yarn dev` (caso você se pergunte por quê "dev"?, está assim pois ele vai executar um script que já está configurado la no nosso package.json, debaixo dos panos ele está executando o comando `nodemon index.js`)
 - Após nosso servidor está rodando, execute o servidor do mongoDB na sua máquina. Abra o cmd ou terminal e digite o comando `mongod` e logo em seguida ele irá iniciar o servidor do mongoDB.
 - Não se preocupe minimize esses dois prompt's de comando e não feche eles.
